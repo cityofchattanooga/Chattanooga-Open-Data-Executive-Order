@@ -79,7 +79,7 @@ The City of Chattanooga's Open Data policy should operate under the following pr
   </tr>
   <tr>
     <td>Data that includes time should include the time zone.</td>
-    <td>Wherever possible, the time zone should be included with the data. It is preferred to use UTC for all time based entries. This would allow a developer to display the correct time based on the user's location.</td>
+    <td>Wherever possible, the time zone should be included with the data. It is preferred to use local, Eastern time for all time based entries. This would allow a developer to display the correct time based on the user's location.</td>
   </tr>
   <tr>
     <td>Data should be published in a variety of formats so that the greatest number of uses (technical and nontechnical) can benefit from it. </td>
