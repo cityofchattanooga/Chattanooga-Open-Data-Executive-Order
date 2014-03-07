@@ -17,12 +17,12 @@ City of Chattanooga Open Data Policy
 
 **NOW, THEREFORE, BE IT RESOLVED BY THE CITY COUNCIL OF THE CITY OF CHATTANOOGA:**
 
-**Section 1.** That the City of Chattanooga Information Services Division will establish an open systems procurement policy that will include specifications in future Requests for Proposals (RFP) to encourage technology solutions with an open source licensing model which store and expose public data using industry-standard and open protocols.
+**Section 1.** That the City of Chattanooga Department of Information Technology will establish an open systems procurement policy that will include specifications in future Requests for Proposals (RFP) to encourage technology solutions with an open source licensing model which store and expose public data using industry-standard and open protocols.
 
 **Section 2.** The City of Chattanooga will establish an open data website at www.chattanooga.gov/opendata that will serve as an open data portal of the data available from the City of Chattanooga in open formats as spelled out in the open data standard. 
 
-**Section 3.** The City of Chattanooga Information Services Division will adopt open data standards for the publishing of data to the open data website.
+**Section 3.** The City of Chattanooga Department of Information Technology will adopt open data standards for the publishing of data to the open data website.
 
-**Section 4.** The City of Chattanooga Information Services Division, in coordination with city departments,  will publish a list of all city data sets and specify whether or not it has been opened and if not, why. 
+**Section 4.** The City of Chattanooga Department of Information Technology, in coordination with city departments,  will publish a list of all city data sets and specify whether or not it has been opened and if not, why. 
 
 **Section 5.** Each city department will identify and publish three priority datasets maintained within the department to the open data website by (six months from date of resolution). 
