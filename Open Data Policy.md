@@ -5,7 +5,7 @@ City of Chattanooga Open Data Policy
 
 **A RESOLUTION INDICATING THE INTENT OF THE CITY TO CREATE AN OPEN GOVERNMENT BY ENCOURAGING THE USE OF OPEN SOURCE SYSTEMS AND ENSURING OPEN ACCESS TO PUBLIC DATA**
 
-**WHEREAS,** the City of Chattanooga is committed to using technology to foster open, transparent, and accessible government; and
+**WHEREAS,** the City of Chattanooga is committed to using technology to foster open, transparent, valuable, and accessible government; and
 
 **WHEREAS,** by sharing data freely, the City of Chattanooga seeks to develop opportunities for economic development, commerce, increased investment and civic engagement; and
 
