@@ -159,6 +159,6 @@ The City of Chattanooga's Open Data policy should operate under the following pr
 
 3. Is the data in a machine readable format (not pdf)? 
 
-4. Is the data in an open format (csv, json, xml, odt, ect.) that does not require proprietary software?
+4. Is the data in an open format (csv, json, odt, etc.) that does not require proprietary software?
 
 5. Is the data in its raw form without formating? 
