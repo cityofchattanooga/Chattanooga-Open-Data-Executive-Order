@@ -32,7 +32,7 @@ The City of Chattanooga's Open Data policy should operate under the following pr
   </tr>
   <tr>
     <td>Open data sets should be prioritized by citizens and city departments based on usefulness and ease of publishing</td>
-    <td>Citizens can vote on data sets using an online forum for open data at openchattanooga.com.  City departments will analyze data sets that rise to the top to determine which are feasible and can be accomplished quickly.</td>
+    <td>Citizens can vote on data sets using an online forum for open data at data.chattanoooga.gov.  City departments will analyze data sets that rise to the top to determine which are feasible and can be accomplished quickly.</td>
   </tr>
   <tr>
     <td>When evaluating whether data can or should be published as open data, the default position should be to make the data available unless there is a reason not to (sensitive data, data protected by law, etc).</td>
