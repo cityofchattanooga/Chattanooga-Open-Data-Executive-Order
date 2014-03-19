@@ -23,6 +23,6 @@ City of Chattanooga Open Data Policy
 
 **Section 3.** The City of Chattanooga Department of Information Technology will adopt open data standards for the publishing of data to the open data website.
 
-**Section 4.** The City of Chattanooga Department of Information Technology, in coordination with city departments,  will publish a list of all city data sets and specify whether or not it has been opened and if not, why. 
+**Section 4.** The City of Chattanooga Department of Information Technology, in coordination with city departments,  will publish a list of all city data sets to data.chattanooga.gov 90 days from date of resolution. This list will specify whether data sets have been opened and if not, why. 
 
-**Section 5.** Each city department will identify and publish three priority datasets maintained within the department to the open data website by (six months from date of resolution), with priority given to data that has been frequently requested by members of the public through exisiting mechanisms such as the Tennesse Open Records Act.
+**Section 5.** Each city department will identify and publish three priority datasets maintained within the department to the open data website six months from date of resolution, with priority given to data that has been frequently requested by members of the public through exisiting mechanisms such as the Tennesse Open Records Act.
