@@ -19,6 +19,6 @@ City of Chattanooga Open Data Policy
 
 **Section 1.** That the City Council hereby issues this resolution in support of Open Data by Default.
 
-**Section 2.** The City of Chattanooga will establish an open data website that will serve as an open data portal of the data available from the City of Chattanooga in open formats as spelled out in the open data standard, and will adopt open data standards for the publishing of data to the open data website.
+**Section 2.** The City of Chattanooga will establish an open data website that will serve as an open data portal of the data available from the City of Chattanooga in open formats as spelled out in the open data standard, and will adopt open data standards for the publishing of data to the open data portal.
 
 **Section 3.** Each city department will assist with the identification and publishing of priority datasets maintained within the department to the open data portal, with priority given to data that has been frequently requested by members of the public through exisiting mechanisms such as the Tennessee Open Records Act.
