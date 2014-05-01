@@ -18,11 +18,11 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **b.** City agencies shall treat newly created datasets as open by default, absent conditions that render such data as "protected", and shall published to the City's open data portal.
 
-## Section 2. Open data advisory group
+**Section 2. Open data advisory group**
 
-a. An open data advisory group shall be chaired by the chief technology officer, or the designee of the chief technology officer, and include open data coordinators from all city agencies.
+**a.** An open data advisory group shall be chaired by the chief technology officer, or the designee of the chief technology officer, and include open data coordinators from all city agencies.
 
-b. The open data advisory group shall assist DOIT in the creation of the annual open data compliance report required under Section 7.
+**b.** The open data advisory group shall assist DOIT in the creation of the annual open data compliance report required under Section 7.
 
 **Section 3. Open data coordinator**
 
