@@ -16,7 +16,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **a.** Each city agency shall identify and publish priority existing datasets, maintained within the department, to the City's data portal. Priority shall be given to data that has been frequently requested by members of the public through existing mechanisms such as the Tennessee Open Records Act.
 
-**b.** City agencies shall treat newly created datasets as open by default, absent conditions that render such data as "protected", and shall published to the City's open data portal.
+**b.** City agencies shall treat newly created datasets as open by default, absent conditions that render such data as protected or private, and shall published to the City's open data portal.
 
 **Section 2. Open data advisory group**
 
@@ -36,11 +36,9 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 5. Administration of data portal**
 
-The City of Chattanooga data portal shall be jointly administered by the Public Library and the DOIT.  The Public Library shall catalogue and post on the portal a list of all data sets available on such portal. DOIT shall establish and maintain on the portal an online forum to solicit feedback from the public and to encourage public discussion on open data policies and data set availability.
+**a.** The City of Chattanooga data portal shall be jointly administered by the Public Library and the DOIT.  The Public Library shall catalogue and post on the portal a list of all data sets available on such portal. DOIT shall establish and maintain on the portal an online forum to solicit feedback from the public and to encourage public discussion on open data policies and data set availability.
 
 **Section 6. Data inventory**
-
-
 
 **Section 7. Annual open data compliance report**
 
@@ -54,4 +52,4 @@ The City of Chattanooga data portal shall be jointly administered by the Public 
 
 **Section 9. Open data terms of use**
 
-**a.** DOIT will determine an open-sourced license under which to publish the data and make it clearly known on the City's data portal.
+**a.** DOIT will determine a license that conforms with the principles set forth in the [Open Knowledge Definition](http://opendefinition.org/od/), under which to publish the data and make the license clearly known on the City's data portal.
