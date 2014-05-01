@@ -16,7 +16,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **a.** Each city agency shall identify and publish priority existing datasets, maintained within the department, to the City's data portal. Priority shall be given to data that has been frequently requested by members of the public through existing mechanisms such as the Tennessee Open Records Act.
 
-**b.** City agencies shall treat newly created datasets as open by default, absent conditions that render such data as protected or private, and shall published to the City's open data portal.
+**b.** City agencies shall treat newly created datasets as open by default, absent conditions that render such data as protected or private, and shall be published to the City's open data portal.
 
 **Section 2. Open data advisory group**
 
@@ -32,7 +32,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **a.** A single web portal shall be (i) established and maintained by or on behalf of the City; (ii) jointly administered by the Public Library and DOIT; and (iii) located at data.chattanooga.gov or its successor website.
 
-**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format that permits automated processing of such data
+**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format that permits automated processing of such data.
 
 **Section 5. Administration of data portal**
 
