@@ -20,7 +20,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 2. Open data advisory group**
 
-**a.** An open data advisory group shall be chaired by the chief technology officer, or the designee of the chief technology officer, and include open data coordinators from all city agencies.
+**a.** An open data advisory group shall be chaired by the Chief Information Officer, or the designee of the Chief Information Officer, and include open data coordinators from all city agencies.
 
 **b.** The open data advisory group shall assist DOIT in the creation of the annual open data compliance report required under Section 6.
 
@@ -48,7 +48,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 7. Technology-related procurements**
 
-**a.** The chief technology officer shall work to develop contract provisions to promote open data policies in technology-related procurements.  These provisions shall promote the City’s open data policies, including, where appropriate, requirements to post data on data.chattanooga.gov or to make data available through other means.
+**a.** The Chief Information Officer shall work to develop contract provisions to promote open data policies in technology-related procurements.  These provisions shall promote the City’s open data policies, including, where appropriate, requirements to post data on data.chattanooga.gov or to make data available through other means.
 
 **Section 8. Open data terms of use**
 
