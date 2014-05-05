@@ -1,2 +1,0 @@
-Open Data Specification
-=======================
