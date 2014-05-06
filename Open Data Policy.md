@@ -22,11 +22,11 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **a.** An open data advisory group shall be chaired by the Chief Information Officer, or the designee of the Chief Information Officer, and include open data coordinators from all city agencies.
 
-**b.** The open data advisory group shall assist DOIT in the creation of the annual open data compliance report required under Section 6.
+**b.** The open data advisory group shall assist the Department of Information Technology in the creation of the annual open data compliance report required under Section 6.
 
 **Section 3. Open data coordinator**
 
-**a.** The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data advisory group; (iii) upon request, meet with the open data advisory group to discuss any matter pertaining to implementation of this Order; and (iv) assist DOIT in the preparation of the annual open data compliance report required under Section 6 of this Order.  
+**a.** The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data advisory group; (iii) upon request, meet with the open data advisory group to discuss any matter pertaining to implementation of this Order; and (iv) assist the Department of Information Technolgoy in the preparation of the annual open data compliance report required under Section 6 of this Order.  
 
 **Section 4. City of Chattanooga data portal**
 
@@ -50,8 +50,8 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 7. Technology-related procurements**
 
-**a.** The Chief Information Officer shall work to develop contract provisions to promote open data policies in technology-related procurements.  These provisions shall promote the City’s open data policies, including, where appropriate, requirements to post data on data.chattanooga.gov or to make data available through other means.
+**a.** The Chief Information Officer shall work to develop contract guidelines to promote open data policies in technology-related procurements.  These guidelines shall promote the City’s open data policies, including, where appropriate, requirements to post data on data.chattanooga.gov or to make data available through other means.
 
 **Section 8. Open data terms of use**
 
-**a.** DOIT will determine a license that conforms with the principles set forth in the [Open Knowledge Definition](http://opendefinition.org/od/), under which to publish the data and make the license clearly known on the City's data portal.
+**a.** The Department of Information Technology will determine a license that conforms with the principles set forth in the [Open Knowledge Definition](http://opendefinition.org/od/), under which to publish the data and make the license clearly known on the City's data portal.
