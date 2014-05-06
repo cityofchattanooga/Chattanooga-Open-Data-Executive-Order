@@ -16,7 +16,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **a.** Each city agency shall identify and publish priority existing datasets, maintained within the department, to the City's data portal. Priority shall be given to data that has been frequently requested by members of the public through existing mechanisms such as the Tennessee Open Records Act.
 
-**b.** City agencies shall treat newly created datasets as open by default, absent conditions that render such data as protected or private, and shall be published to the City's open data portal.
+**b.** City agencies shall treat newly created datasets as open by default and publish said datasets to the City's open data portal, except data that is confidential, privileged or otherwise protected by law.
 
 **Section 2. Open data advisory group**
 
@@ -42,9 +42,11 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 6. Annual open data compliance report**
 
-**a.** Within 360 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chair of the open data advisory group shall submit to the Mayor an annual open data compliance report prepared with the assistance of the open data advisory group.  Such annual report shall (i) establish, on an agency specific basis, reasonable timelines, implementation plans and review processes to promote, over time and in steadily graduated fashion, increased online public access to city agency data sets that are appropriate for online disclosure and that protect from online disclosure information that is proprietary, confidential, protected by law or contract, or inimical to public health, safety or welfare; and (ii) summarize and comment on the state of open data and data set availability in city agencies.
+**a.** Within 360 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chair of the open data advisory group shall submit to the Mayor an annual open data compliance report prepared with the assistance of the open data advisory group.
 
-**b.** The report shall be made available on the City of Chattanooga data portal.
+**b.** Such annual report shall (i) establish, on an agency specific basis, reasonable timelines, implementation plans and review processes to promote, over time and in steadily graduated fashion, increased online public access to city agency data sets except those that are confidential, privileged or otherwise protected by law; and (ii) summarize and comment on the state of open data and data set availability in city agencies.
+
+**c.** The report shall be made available on the City of Chattanooga data portal.
 
 **Section 7. Technology-related procurements**
 
