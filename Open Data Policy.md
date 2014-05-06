@@ -12,27 +12,28 @@
 
 NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
-**Section 1. Data set availability**
+**Section 1. City of Chattanooga data portal**
+
+**a.** A single web portal shall be (i) established and maintained by or on behalf of the City; and (ii) located at data.chattanooga.gov or its successor website.
+
+**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
+
+
+**Section 2. Data set availability**
 
 **a.** Each city agency shall identify and publish priority existing datasets, maintained within the department, to the City's data portal. Priority shall be given to data that has been frequently requested by members of the public through existing mechanisms such as the Tennessee Open Records Act.
 
 **b.** City agencies shall treat newly created datasets as open by default and publish said datasets to the City's open data portal, except data that is confidential, privileged or otherwise protected by law.
 
-**Section 2. Open data advisory group**
+**Section 3. Open data governance group**
 
-**a.** An open data advisory group shall be chaired by the Chief Information Officer, or the designee of the Chief Information Officer, and include open data coordinators from all city agencies.
+**a.** An open data governance group shall be chaired by the Chief Information Officer, or the designee of the Chief Information Officer, and include open data coordinators from each city agency.
 
-**b.** The open data advisory group shall assist the Department of Information Technology in the creation of the annual open data compliance report required under Section 6.
+**b.** The open data governance group shall assist the Department of Information Technology in the creation of the annual open data compliance report required under Section 6.
 
-**Section 3. Open data coordinator**
+**Section 4. Open data coordinator**
 
-**a.** The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data advisory group; (iii) upon request, meet with the open data advisory group to discuss any matter pertaining to implementation of this Order; and (iv) assist the Department of Information Technolgoy in the preparation of the annual open data compliance report required under Section 6 of this Order.  
-
-**Section 4. City of Chattanooga data portal**
-
-**a.** A single web portal shall be (i) established and maintained by or on behalf of the City; and (ii) located at data.chattanooga.gov or its successor website.
-
-**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
+**a.** The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data governance group; (iii) upon request, meet with the open data advisory group to discuss any matter pertaining to implementation of this Order; and (iv) assist the Department of Information Technolgoy in the preparation of the annual open data compliance report required under Section 6 of this Order.  
 
 **Section 5. Data inventory**
 
@@ -42,7 +43,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 6. Annual open data compliance report**
 
-**a.** Within 360 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chair of the open data advisory group shall submit to the Mayor an annual open data compliance report prepared with the assistance of the open data advisory group.
+**a.** Within 360 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chair of the open data governance group shall submit to the Mayor an annual open data compliance report prepared with the assistance of the open data governance group.
 
 **b.** Such annual report shall (i) establish, on an agency specific basis, reasonable timelines, implementation plans and review processes to promote, over time and in steadily graduated fashion, increased online public access to city agency data sets except those that are confidential, privileged or otherwise protected by law; and (ii) summarize and comment on the state of open data and data set availability in city agencies.
 
@@ -50,7 +51,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 7. Technology-related procurements**
 
-**a.** The Chief Information Officer shall work to develop contract guidelines to promote open data policies in technology-related procurements.  These guidelines shall promote the City’s open data policies, including, where appropriate, requirements to post data on data.chattanooga.gov or to make data available through other means.
+**a.** The Chief Information Officer shall work to develop contract guidelines to promote open data policies in technology-related procurements.  These guidelines shall promote the City’s open data policies, including, where appropriate, requirements to post data on the City's open data portal or to make data available through other means.
 
 **Section 8. Open data terms of use**
 
