@@ -33,7 +33,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 4. Open data coordinator**
 
-**a.** The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data governance group; (iii) upon request, meet with the open data advisory group to discuss any matter pertaining to implementation of this Order; and (iv) assist the Department of Information Technolgoy in the preparation of the annual open data compliance report required under Section 6 of this Order.  
+**a.** The head of each city agency shall designate from within the city agency an open data coordinator, who shall (i) assist the city agency in implementing its duties under this Order; (ii) serve on the open data governance group; (iii) upon request, meet with the open data governance group to discuss any matter pertaining to implementation of this Order; and (iv) assist the Department of Information Technolgoy in the preparation of the annual open data compliance report required under Section 6 of this Order.  
 
 **Section 5. Data inventory**
 
