@@ -32,11 +32,11 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **a.** A single web portal shall be (i) established and maintained by or on behalf of the City; and (ii) located at data.chattanooga.gov or its successor website.
 
-**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format that permits automated processing of such data.
+**b.** Any data set made accessible on the City of Chattanooga data portal shall use a machine readable format whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
 
 **Section 5. Data inventory**
 
-**a.** Within 100 days of the effective date of this Order, a complete inventory of existing data within City agencies shall be cataloged in a public manner, and will clearly articulate (i) if the data is available in a digital form; (ii) if the data is machine readable; (iii) the agency that is responsible for the data; (iv) if the data and metadata are clearly documented; and (v) if the data is available on the open data portal.
+**a.** Within 90 days of the effective date of this Order, a complete inventory of existing data within City agencies shall be cataloged in a public manner, and will clearly articulate (i) if the data is available in a digital form; (ii) if the data is machine readable; (iii) the agency that is responsible for the data; (iv) if the data and metadata are clearly documented; and (v) if the data is available on the open data portal.
 
 **b.** The data inventory shall be regularly updated and available on the City's open data portal.
 
