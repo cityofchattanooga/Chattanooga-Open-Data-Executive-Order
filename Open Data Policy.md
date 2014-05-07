@@ -43,7 +43,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 6. Annual open data compliance report**
 
-**a.** Within 360 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chair of the open data governance group shall submit to the Mayor an annual open data compliance report prepared with the assistance of the open data governance group.
+**a.** Within 365 days of the effective date of this Order, and thereafter no later than July 15 of each year, the chair of the open data governance group shall submit to the Mayor an annual open data compliance report prepared with the assistance of the open data governance group.
 
 **b.** Such annual report shall (i) establish, on an agency specific basis, reasonable timelines, implementation plans and review processes to promote, over time and in steadily graduated fashion, increased online public access to city agency data sets except those that are confidential, privileged or otherwise protected by law; and (ii) summarize and comment on the state of open data and data set availability in city agencies.
 
