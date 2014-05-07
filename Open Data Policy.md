@@ -37,7 +37,7 @@ NOW, THEREFORE, IT IS ORDERED AS FOLLOWS:
 
 **Section 5. Data inventory**
 
-**a.** Within 90 days of the effective date of this Order, a complete inventory of existing data within City agencies shall be cataloged in a public manner, and will clearly articulate (i) if the data is available in a digital form; (ii) if the data is machine readable; (iii) the agency that is responsible for the data; (iv) if the data and metadata are clearly documented; and (v) if the data is available on the open data portal.
+**a.** Within 90 days of the effective date of this Order, a complete inventory of existing data within City agencies shall be cataloged in a public manner, and will clearly articulate (i) if the data is available in a digital form; (ii) if the data is machine readable; (iii) the agency that is responsible for the data; (iv) if the data and metadata are clearly documented; and (v) if the data is available on the open data portal, and if not, reason(s) why.
 
 **b.** The data inventory shall be regularly updated and available on the City's open data portal.
 
