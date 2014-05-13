@@ -1,4 +1,4 @@
-City of Chattanooga's Open Data Policy and Specification
+City of Chattanooga's Open Data Policy
 ========================================================
 
 ### **Expectations**
