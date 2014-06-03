@@ -1,13 +1,13 @@
-City of Chattanooga's Open Data Policy and Specification
+City of Chattanooga's Open Data Policy
 ========================================================
 
-### **Expectations**
-This posting of the proposed open data policy and specification is an opportunity to garner greater input and feedback before the final version of the open data policy and specification is enacted. 
 
-There should be certain expectations about the ability to change verbatim whatever your suggestion or input may be. Given that the policy and specfication must go through the Mayor's office, Information Sercices and the City Attorney's office, some suggestions may interpreted or translated to match required legal terms and definitions. 
+### **Update**
 
-### **Contributing**
-The [issues queue](https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy/issues) will be the best way to give us feedback and input, and you should expect a prompt response when submitting issues. 
+The Open Data Executive order was signed by Mayor Andy Berke on May 31, 2014 at Hackanooga. Coverage from the Chattanoogan can be found [here](http://www.chattanoogan.com/2014/5/31/277584/Mayor-Berke-Signs-Order-Saying-City.aspx).
 
-### **Contact**
-To get in contact with the host to start a discussion about your suggestions: please email Open Government Specialist, Tim Moreland or Jenny Park at moreland_t@chattanooga.gov or park_jenny@chattanooga.gov respectively. 
+Thanks for all the [contributions](https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy/graphs/contributors), [pull requests](https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy/pulls) and [issues](https://github.com/cityofchattanooga/Chattanooga-Open-Data-Policy/issues?direction=desc&sort=created&state=open) raised as it helped draft a more comprehensive policy.
+
+### **Where to find open data**:
+
+You can find an ever growing number of data sets from both the city and the community at [data.chattlibrary.org](http://data.chattlibrary.org).
