@@ -1,5 +1,12 @@
 # City of Chattanooga Open Data Policy
 
+**EXECUTIVE ORDER OF THE MAYOR**
+**No. 2014-04**
+
+
+**City of Chattanooga Open Data Policy**
+
+
 **WHEREAS**, the City of Chattanooga (the "City") is committed to improving the community by fostering open, transparent, valuable, effective, accountable, and accessible government functions; and,
 
 **WHEREAS**, by removing barriers to data, the City of Chattanooga seeks to develop opportunities for civic engagement, economic development, commerce, and increased investment; and,
