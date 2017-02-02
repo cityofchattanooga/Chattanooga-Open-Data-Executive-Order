@@ -2,7 +2,7 @@ City of Chattanooga's Open Data Policy
 ========================================================
 
 ### **Timeline**
-The open data policy and specification language will be taken from Github on **April 17th 2014** to be crafted into the final language needed for the policy. Once the final language is complete and the policy is enacted, the policy and specification will be placed back on Github as well as on the City's website at www.chattanooga.gov and open data portal to be hosted at [data.chattanooga.gov](https://data.chattanooga.gov). 
+The open data policy and specification language will be taken from Github on **April 17th 2014** to be crafted into the final language needed for the policy. Once the final language is complete and the policy is enacted, the policy and specification will be placed back on Github as well as on the City's website at www.chattanooga.gov and open data portal to be hosted at [data.chattanooga.gov](http://data.chattanooga.gov). 
 
 ### **Expectations**
 This posting of the proposed open data policy and specification is an opportunity to garner greater input and feedback before the final version of the open data policy and specification go into effect. 
